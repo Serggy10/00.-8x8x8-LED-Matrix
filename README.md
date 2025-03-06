@@ -1,4 +1,3 @@
-# 00.-8x8x8-LED-Matrix
 # Description
 This was my first huge project with Arduino. It was based on the design of Harry Lee (https://www.youtube.com/watch?v=T5Aq7cRc-mU&ab_channel=HARRYLE). I made some changes to adapt the project to my needs and resources. For example I made a homemade PCB board using a doble layer perfboard to wire all the electronics.
 
